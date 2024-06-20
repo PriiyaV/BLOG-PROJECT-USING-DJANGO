@@ -83,7 +83,7 @@ python manage.py runserver
 ```
 
 ### 9. Access the Website
-Open your web browser and go to `http://127.0.0.1:8000/` to see your blog website in action.
+Open your web browser and go to `http://127.0.0.1:8000/blog` to see your blog website in action.
 
 ***
 You've successfully set up the Django Blog Project on your local machine. By following these steps, you've installed Python, created a virtual environment, installed Django and other dependencies, configured MySQL, and applied migrations to set up the database.
